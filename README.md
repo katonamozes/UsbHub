@@ -1,8 +1,14 @@
 # UsbHub
 
-This is a basic usb hub that splits 1 usb port into 4. I used this tutorial to make it: https://jams.hackclub.com/batch/usb-hub/part-1#Start%20a%20new%20project 
+This is a basic usb hub that splits 1 usb port into 4. I made it because I was running out of usb ports on my computer and instead of buying a generic usb hub I wanted to make something that was more personal and I also enjoy just making stuff like this. I was really inspired by my hobbes and interests for the silkscreen and I also had fun making the rest of the board and the case. I also wanted to flex my knowledge a bit to my classmates ;) . I used this tutorial to make it: https://jams.hackclub.com/batch/usb-hub/part-1#Start%20a%20new%20project 
 
-I did change some stuff like I used a different processor to add more functionality to use later if I want to like leds. 
+Here is the whole scematic: <img width="1259" height="855" alt="image" src="https://github.com/user-attachments/assets/868fdc5a-5e27-42ac-9716-b0167c66cffd" />
+
+And a few  screenshots from Fusion: <img width="889" height="662" alt="image" src="https://github.com/user-attachments/assets/c094b7ed-fcac-4ad1-999f-21ddab187e68" />
+<img width="804" height="588" alt="image" src="https://github.com/user-attachments/assets/f386e320-f394-4420-bdc4-749c81391540" />
+<img width="641" height="462" alt="image" src="https://github.com/user-attachments/assets/3d6e0e14-7ab4-4ced-9bd3-1df44e9398de" />
+
+Regarding the tutorial I also change some stuff like I used a different processor to add more functionality to use later if I want to like leds. 
 <img width="273" height="386" alt="image" src="https://github.com/user-attachments/assets/e51c7146-e504-40ab-8a54-0fa1a4c71385" />
 
 I also added 2 more usb ports to make it more useful.
